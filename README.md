@@ -26,7 +26,7 @@ Quick start :
 hr
 ```
 
-You can set characters for horizon line ( default : '-' ) :
+You can set characters for horizon line ( default : '─' ) :
 
 ```
 hr +
