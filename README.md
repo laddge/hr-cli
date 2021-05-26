@@ -8,6 +8,8 @@ Print horizon line to terminal
 ## Building
 
 ```
+git clone https://github.com/laddge/hr-cli.git
+cd ./hr-cli
 make
 ```
 
